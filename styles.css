@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+}
+h1 {
+    color: midnightblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    color: midnightblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    color: black;
+    border: 2px solid yellow;
+    border-radius: 8px;
+}
+img {
+    float: right;
+}
